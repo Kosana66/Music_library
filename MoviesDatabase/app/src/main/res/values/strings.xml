@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MoviesDatabase</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="add_song">Add song</string>
+    <string name="remove_song">Remove song</string>
+    <string name="edit_song">Edit song</string>
+    <string name="go_to_artists">Go to artists</string>
+    <string name="go_to_genres">Go to genres</string>
+    <string name="go_to_songs">Go to songs</string>
+    <string name="edit_artist">Edit artist</string>
+    <string name="remove_artist">Remove artist</string>
+    <string name="add_artist">Add artist</string>
+    <string name="add_genre">Add genre</string>
+    <string name="remove_genre">Remove genre</string>
+    <string name="edit_genre">Edit genre</string>
+    <string name="search">Search</string>
+    <string name="search_by_genre">Search by genre</string>
+    <string name="search_by_artist">Search by artist</string>
+    <string name="go_to_playlists">Go to playlists</string>
+    <string name="add_playlist">Add playlist</string>
+    <string name="remove_playlist">Remove playlist</string>
+    <string name="replace_playlist">Replace playlist</string>
+</resources>
